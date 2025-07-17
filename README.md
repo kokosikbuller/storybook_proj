@@ -1,8 +1,12 @@
 # React + TypeScript + Vite
 
 # Run app
-npm i 
+```bash
+npm i
+```
+```bash
 npm run storybook
+```
 
 
 # Input
